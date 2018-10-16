@@ -1,0 +1,17 @@
+
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    font-size: 24px;
+}
+
+header {
+    background: #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+}
